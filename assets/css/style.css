@@ -1,17 +1,18 @@
 
 body, html {
     background-color: #F3E9FF;
+    
 }
-.header {
+#header {
     text-align: center;
 }
-.header h1 {
+.header-top h1 {
     font-family: "Arial Black", sans-serif;
     font-size: 60px;
     color: #5730C8;
     margin: 0;
 }
-.header-under img {
+.logo img {
     width: 400px;
     margin-top: 60px;
 }
